@@ -1,0 +1,9 @@
+{
+    "name": "vegalsa/qrcode",
+    "description": "Módulo HumHub — Generador de código QR para la tarjeta de fidelización Vegalsa Eroski",
+    "type": "humhub-module",
+    "license": "proprietary",
+    "require": {
+        "chillerlan/php-qrcode": "^5.0"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": "qrcode",
+    "name": "Tarjeta Vegalsa",
+    "description": "Generador de código QR para la tarjeta de fidelización Vegalsa Eroski",
+    "keywords": [
+        "qrcode",
+        "qr",
+        "ean13",
+        "vegalsa",
+        "tarjeta"
+    ],
+    "version": "1.0.0",
+    "humhub": {
+        "minVersion": "1.8"
+    },
+    "screenshots": []
+}

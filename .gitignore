@@ -1,0 +1,33 @@
+# Composer
+vendor/
+composer.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# Archivos temporales
+*.log
+*.tmp
+.cache/
+
+# PHP
+.php_cs
+.php_cs.cache
+.phpunit.result.cache
+
+# Variables de entorno locales
+.env
+.env.*.local
